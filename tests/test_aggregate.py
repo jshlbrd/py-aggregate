@@ -1,5 +1,5 @@
 import pytest
-from aggregate import Aggregate
+from pyaggregate.aggregate import Aggregate
 
 
 def test_add_max_count():

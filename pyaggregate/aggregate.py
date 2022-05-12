@@ -23,7 +23,7 @@ Typical usage example:
 import json
 
 
-class Aggregate:
+class Aggregate(object):
     """Aggregates bytes, strings, or dictionaries (JSON objects).
 
     Args:
