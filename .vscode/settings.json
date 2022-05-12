@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  "python.sortImports.args": ["--profile", "black"],
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+},}

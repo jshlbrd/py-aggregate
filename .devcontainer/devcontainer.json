@@ -1,0 +1,10 @@
+{
+	"name": "Python",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+	"extensions": [
+		"ms-python.python",
+	],
+	"remoteUser": "vscode",
+}

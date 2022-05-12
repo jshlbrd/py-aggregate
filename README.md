@@ -1,2 +1,2 @@
 # py-aggregate
-Buffer data in Python
+Buffer strings, bytes, and JSON objects in Python!
